@@ -1,1 +1,100 @@
+Person ID:                    My Friend Sergio    
 
+Problem:                      He wants an app that will tell him what events are going on in his area based on his interest; parties, socials, etc.     
+
+App Found/Not:                There is no dedicated app, but apps such as Facebook do have event creating and sharing features. He has used an event sharing feature on Facebook before. This resulted in a successful party, however not everyone he wanted to invite is on Facebook. 
+
+Likes:                        Having an app soley dedicated to events around you make it easier to use. Knowing what is going on in a local area can get more people involved. Other apps make it inconvienent to find events based on a certain area.
+
+Dislikes:                     Safety, Already apps that provide that feature, How will event data be gathered?
+
+Improvements:                 Have the app interface be a map so finding events will be easy. 
+
+Age:                          22
+
+Gender:                       Male
+
+Education/Occupation:         Student/Coder
+
+Commments:                    Good plausible idea.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Person ID:                    Sister (Julie)    
+
+Problem:                      She wants an app that will show her restaurants based on what she wants to eat. She was really in the mood for fried food.   
+
+App Found/Not:                Food ordering apps already exist that show what kind of food is available in the area. Grubhub, Ubereats, Postmates. These apps also have the feature of searching by food culture type. She sometimes uses Ubereats on occasion and it gets the job done. However the app could have a direct link to restaurants featuring fried food.
+
+Likes:                        I like the idea of searching for restaurants based on a certain craving. 
+
+Dislikes:                     Food apps exist that provide enough information for a hungry person to choose what to eat. 
+
+Improvements:                 Maybe creating a system in an app that can narrow down what the person wants to eat and guide them to a certain restaurant nearby. Then the app would be dedicated to finding out what someone wants rather than where to get a certain food. 
+
+Age:                          24
+
+Gender:                       Female
+
+Education/Occupation:         Nurse
+
+Commments:                    If the improvements were made to the app idea it would be a unique app idea. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Person ID:                    Me (Chris Pham)    
+
+Problem:                      I go hiking often and I need an app that can show me a map of where I am (like a Google Satellite map). I need the app to save the map offline and be simple to use because I often find that when I am exhausted on the trail, it is difficult to navigate the features of other apps such as Google maps. 
+
+App Found/Not:                Apps such as Guthooks, Alltrails, Google Maps, etc, can show an offline downloaded map of the area, but some you must pay subscriptions for, and others have difficult UI's to use when tired. For example, when using Google Maps, I never bothered to save the offline maps because I couldn't even navigate the menu to find the feature. I've been told it's there. 
+
+Likes:                        A simple map interface will make it easy to use on hikes (I only spend a few seconds looking at the map anyways). 
+
+Dislikes:                     I can already find what I want with this app idea in other apps. However I am too lazy to do so because it is not that intuitive to do. 
+
+Improvements:                 I could add the feature of making it easier to choose an area of map I want to download to my phone (This is another reason I don't use other apps)
+
+Age:                          23
+
+Gender:                       Male
+
+Education/Occupation:         CS Student/In this class
+
+Comments:                     This is just an app idea because I am lazy and want an app specifically tailored to my problem on the trail. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Person ID:                    My Friend Wesley    
+
+Problem:                      We were discussing the idea of an app that would tell you the closest place to see the best view of stars based on things such as elevation and light pollution. Say you wanted to stargaze and wanted to travel the least distance to get the best view. If an app were to give you a maps of the star viewing quality from the ground, it could then tell you the closest place to see a certain quality of star brightness.      
+
+App Found/Not:                There are currently no apps that provide this feature.
+
+Likes:                        It would be convienent and encouraging for people to go stargazing if they knew where to go. No other app yet takes into account star activity based on light pollution, clouds, and elevation. 
+
+Dislikes:                     How will light pollution data be gathered? How will the quality of the stars be calculated based on the information? There is no formula yet. 
+
+Improvements:                 Having a map layout showing the light pollution and elevation gradients would be useful to see on its own. That way the user to predict where the best star gazing site is.  
+
+Age:                          26
+
+Gender:                       Male
+
+Education/Occupation:         Sales Manager
+
+Commments:                    A good idea that would be difficult to gather data for. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Person ID:                    My Friends John Naoum and Christian Dumas in a group discussion 
+
+Problem:                      They are sick of people not understanding how the world works politically and economically. They want an app that will show people what the world will be like if they did such things like print more money or switch to communism.     
+
+App Found/Not:                There are game apps that involve destroying and taking over the world with political and economic features. However, none of these apps are aimed at educating its users accurately on what would happen in a real world scenario. 
+
+Likes:                        If successful, the public will become more educated using this app, resulting in better decision making for society. This can result in better leaders being voted for and improper governments to be overthrown. 
+
+Dislikes:                     Because of the political aspect of this app, the ethics and accuracy of the world model is subject to debate and nothing can accurately be predicted. There is also a lot of information that needs to be taken into account when rendering a world outcome. 
+
+Improvements:                 Maybe have the app focus on certain actions such as inflation and policy so that it can educate people on known subject areas. 
+
+Age:                          22 and 27 
+
+Gender:                       Male
+
+Education/Occupation:         Test Engineer and Full Stack developer
+
+Commments:                    I too believe it is important that people understand world issues. I want to create this app to counter all the false media out there and properly inform the public on world issues. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
