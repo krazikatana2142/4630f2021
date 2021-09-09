@@ -1,8 +1,11 @@
+Christopher Pham
+Assignment 0: Survey
+=================================================================================================================================================================================
 Person ID:                    My Friend Sergio    
 
 Problem:                      He wants an app that will tell him what events are going on in his area based on his interest; parties, socials, etc.     
 
-App Found/Not:                There is no dedicated app, but apps such as Facebook do have event creating and sharing features. He has used an event sharing feature on Facebook before. This resulted in a successful party, however not everyone he wanted to invite is on Facebook. 
+App Found/Not:                There is no dedicated app, but apps such as Facebook do have event creating and sharing features. He has used an event sharing feature on Facebook before. This resulted in a successful party, however not everyone he wanted to invite is on Facebook. He often uses Tinder to advertise parties for people, however the audience is limited. 
 
 Likes:                        Having an app soley dedicated to events around you make it easier to use. Knowing what is going on in a local area can get more people involved. Other apps make it inconvienent to find events based on a certain area.
 
