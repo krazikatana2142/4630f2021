@@ -1,1 +1,16 @@
+1) A calander/reminder app that consistently gives notifications of things you need to do. The app also gives the ability to organize different things like groceries and events. The app only notifies you of things you want to be notified for. 
+  - Perhaps they could make a UI that would let you select categories of notifications you want to receive (like groceries and events)
 
+An app that makes signing in guests into dorms easier. This way, the front desk security does not have to have 2 guests present to scan both IDs.
+  - Maybe make the UI easier by having the app input ID information through taking pictures of the IDs
+
+An app that lets you keep track of the parts/maintenance in your car. There is already software and cables that allow you to see these things in your car. 
+  - I would make the app that would let you see all this information in your car and also create a cable that would able the user to directly interface the car with the phone app. This way no extra software or computer is necessary. 
+
+2) a. Sell data to advertising companies. 
+b. Offer more/better features for those that really want to purchase within the app. 
+c. Subconsciously "suggests" users to buy "advertised" products, where it does not look like a direct advertisement, but rather a suggestion. 
+
+3) I appreciate the UI design of Snapchat. I have been using Snapchat for many years, and it has never been perfect, but I have noticed many improvements during this time. For example, Snapchat began to offer users the feature of seeing where your friends were on a map. In order to access this map, you had to do a "pinch to zoom out" motion on the camera screen. This was not intuitive to use because Snapchat gave no indication on how to open the map. Later on, they fixed this problem by adding a dedicated button for the map. My biggest pet peeve of apps these days is that they do not have a direct button/menu that shows you all the features of the app. Snapchat has improved over the years by make their features intuitive and easy to use by doing things such as making icons for features like maps, stories, and memories. 
+
+4) I originally had wanted to do my Hiking App that would import a map for a user and have easy to use buttons to do things such as measure distance and sense walking direction/speed. However, after learning that maps are difficult/expensive to import data from, I decided to pursue this app idea with a static map that the user chooses. Because my app mainly deals with the UI issues of hiking apps, I see it possible to create something tailored to a hiker. 
