@@ -1,0 +1,4 @@
+https://github.com/albertopeam/kotlin-maps
+This is the link to the Github to the prewritten code I am using to edit and learn how to use Google Maps SDK.
+The zip file itself is too large to put on Github, so I linked the original code written by Alberto Peam
+The code I edited hasn't changed very much and I am using this code to learn and implement in my own app
