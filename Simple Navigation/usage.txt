@@ -1,0 +1,9 @@
+1) Open the app
+2) Either chose a preset location to travel to or press the "add" button to add a new location
+3) If you chose a preset location, the app will redirect you to a map showing that location
+4) If you chose the "add" button, the app will redirect you to a map
+  - Long press on a location to add a marker on it
+    + The app will show a field letting you name the location and add a description
+    + Do not press the "save" Icon as this function does not work and will crash the app
+  - To remove a location, click on the marker and press on the locations description
+5) To exit the map and redirect to the list of locations, press the back key on your android device
