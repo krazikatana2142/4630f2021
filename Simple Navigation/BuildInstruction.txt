@@ -1,8 +1,2 @@
-Prior to getting a fatal error, of which I cannot resolve, these would have been the instructions.
-
-	- Download the apk on an Android Device and run it like any other apk app
-
-Because of the fatal error, I can only offer you to see my code.
-
-	- To view and edit it in Android Studio, download the zip file and unzip it
-	- Open Android Studio and select the final_mapplication file to open
+1) Download the apk on your android device and run it
+2) Run the app on your device by clicking on the app
